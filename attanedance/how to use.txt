@@ -1,0 +1,3 @@
+go to dist --> Attendance-register --> auto_leace.exe
+saves in register.txt
+do change and commit ;-)
